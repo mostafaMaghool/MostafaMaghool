@@ -220,7 +220,7 @@ SunTrack/
 </p>
 
 
-<img src="https://github.com/mostafaMaghool/MostafaMaghool/blob/main/Gemini_Generated_Image_z4iwupz4iwupz4iw.jpg" width="20" height="20" alt="" style="vertical-align:middle;display:inline-block;margin:0 4px 2px 0;pointer-events:none;">
+<img src="https://github.com/mostafaMaghool/MostafaMaghool/blob/main/Gemini_Generated_Image_z4iwupz4iwupz4iw.jpg" alt="" style="vertical-align:middle;display:inline-block;margin:0 4px 2px 0;pointer-events:none;">
 
 
 </div>
