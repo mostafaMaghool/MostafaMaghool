@@ -2,6 +2,7 @@
 
 ![Mostafa Mono](https://www.gitskins.com/api/section/wordmark?username=mostafaMaghool&theme=aurora&label=Mostafa%20Mono)
 
+
 <details name="language" dir="ltr"> 
 <summary> <img src="https://api.iconify.design/lucide:languages.svg?color=%234BEEB6" width="20" height="20" alt="lang" style="vertical-align:middle;display:inline-block;margin:0 4px 2px 0;"> فارسی </summary>
 
@@ -180,4 +181,10 @@ Available for strategic software architecture, bespoke web development, and digi
 <p align="center">Building future-oriented platforms with precision and purpose.</p>
 
 </div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mostafaMaghool&show_icons=true&theme=tokyonight&hide_border=true" alt="Mostafa Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafaMaghool&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
 </details>
